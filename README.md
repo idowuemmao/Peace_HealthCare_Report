@@ -31,6 +31,9 @@ I recently participated in the **"Improving Patient Care Through Data-Driven Sol
 - Introduce **medication adherence counseling** before discharge.  
 - Leverage **reminder systems** (e.g., SMS alerts) to enhance patient engagement.  
 
+Dashboard
+![hub](https://github.com/user-attachments/assets/f24d8b26-582a-4f40-be4e-b756b4718da7)
+
 ## **🚀 Key Takeaway:**  
 This case study reinforced how **data-driven decision-making** can **revolutionize patient care**, improve hospital efficiency, and **enhance patient outcomes**.  
 
