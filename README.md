@@ -36,6 +36,6 @@ This case study reinforced how **data-driven decision-making** can **revolutioni
 
 💡 Have you ever leveraged **data analytics** to improve healthcare services? Let’s discuss!  
 
-📂 View my full analysis (**here**)[https://docs.google.com/spreadsheets/d/1IAv51ATZFR9F0tO4JaN-zjdS8oVl98mmnCR7RBgSKTA/edit?usp=sharing]
+📂 View my full analysis [**here**](https://docs.google.com/spreadsheets/d/1IAv51ATZFR9F0tO4JaN-zjdS8oVl98mmnCR7RBgSKTA/edit?usp=sharing)
 
 #DataDrivenHealthcare #PatientCare #GoogleSheets #DataAnalytics #HealthcareInsights #DataForGood #DataVisualization
